@@ -1,34 +1,38 @@
 # Bonjour, je suis Ahcene Madjour 👋
 
-**Développeur Web & Data Analyst** : je conçois des applications web et j'exploite les données pour aider à prendre de meilleures décisions.
+**Data Analyst · Développeur Web** : je transforme les données en décisions, et je construis les outils qui les rendent accessibles.
 
-Formé en **développement web** (Titre Professionnel Développeur Web et Web Mobile) et en **analyse de données** (Wild Code School), je fais le lien entre le code et la donnée : créer des applications, puis analyser et valoriser ce qu'elles produisent.
+🌐 **Portfolio : [ahcenem.github.io](https://ahcenem.github.io)**
+
+Formé en **analyse de données** (Wild Code School) et en **développement web** (Titre Professionnel Développeur Web et Web Mobile), je fais le lien entre la donnée et le code : analyser, modéliser, visualiser, puis construire les applications qui valorisent ces résultats.
 
 ## 🛠️ Compétences
 
 | Domaine | Outils |
 |---|---|
-| Développement web | PHP, JavaScript, HTML/CSS, Bootstrap |
-| Bases de données | MySQL, MongoDB, SQL |
-| Analyse de données | Python (Pandas, NumPy) |
+| Analyse de données | Python (Pandas, NumPy), SQL |
 | Machine Learning | Scikit-learn (régression, classification, KNN) |
-| Visualisation | Power BI, Matplotlib, Seaborn, Streamlit |
+| Visualisation | Power BI, Matplotlib, Seaborn, Streamlit, Chart.js |
+| Développement web | PHP, JavaScript, HTML/CSS, Bootstrap |
+| Bases de données | MySQL, MongoDB |
 | Outils | Git, GitHub, VS Code, Jupyter, Railway |
 
 ## 🚀 Projets
 
-### Développement web
-- **[Vite & Gourmand](https://github.com/AHCENEM/vite-et-gourmand)** : application de traiteur événementiel en PHP, MySQL et MongoDB (architecture MVC, authentification, commandes), déployée en ligne. Projet d'examen du Titre Professionnel.
-
 ### Data
 - **[Prédiction du prix des appartements à Paris](https://github.com/AHCENEM/prediction-prix-appartements-paris)** : régression linéaire sur 48 921 ventes, R² de 0,85.
-- **Système de recommandation de films (CineCreuse)** : application Streamlit basée sur un modèle KNN, projet d'équipe à la Wild Code School.
+
+### Développement web
+- **[Vite & Gourmand](https://github.com/AHCENEM/vite-et-gourmand)** : application de traiteur événementiel en PHP, MySQL et MongoDB (architecture MVC), [déployée en ligne](https://vite-et-gourmand-production-0424.up.railway.app). Projet d'examen du Titre Professionnel.
+- **[Portfolio](https://github.com/AHCENEM/ahcenem.github.io)** : site codé à la main en HTML, CSS et JavaScript, projets chargés en direct depuis l'API GitHub, graphiques avec Chart.js.
 
 ## 🎯 Ce que je recherche
 
-Un poste de **Développeur Web** ou de **Data Analyst**, idéalement là où les deux se rencontrent : applications orientées données, tableaux de bord, outils internes.
+Un poste de **Data Analyst** ou de **Développeur Web**, idéalement là où les deux se rencontrent : applications orientées données, tableaux de bord, outils internes.
+📍 Sur site à Paris et en Île-de-France · 🌍 Télétravail en France et à l'international
 
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahcene-madjour/?isSelfProfile=true)
+- 🌐 [Portfolio](https://ahcenem.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahcene-madjour)
 - ✉️ [madjourahcene@gmail.com](mailto:madjourahcene@gmail.com)
