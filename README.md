@@ -29,6 +29,8 @@ Formé en **analyse de données** (Wild Code School) et en **développement web*
 ## 🎯 Ce que je recherche
 
 Un poste de **Data Analyst** ou de **Développeur Web**, idéalement là où les deux se rencontrent : applications orientées données, tableaux de bord, outils internes.
+
+
 📍 Sur site à Paris et en Île-de-France · 🌍 Télétravail en France et à l'international
 
 ## 📫 Me contacter
