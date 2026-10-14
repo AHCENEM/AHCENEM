@@ -14,13 +14,14 @@ Formé en **analyse de données** (Wild Code School) et en **développement web*
 | Machine Learning | Scikit-learn (régression, classification, KNN) |
 | Visualisation | Power BI, Matplotlib, Seaborn, Streamlit, Chart.js |
 | Développement web | PHP, JavaScript, HTML/CSS, Bootstrap |
-| Bases de données | MySQL, MongoDB |
+| Bases de données | MySQL / MariaDB, PostgreSQL, MongoDB · modélisation UML, normalisation |
 | Outils | Git, GitHub, VS Code, Jupyter, Railway |
 
 ## 🚀 Projets
 
 ### Data
 - **[Prédiction du prix des appartements à Paris](https://github.com/AHCENEM/prediction-prix-appartements-paris)** : régression linéaire sur 48 921 ventes, R² de 0,85.
+- **[CinéData](https://github.com/AHCENEM/cinedata)** : base de données complète d'un cinéma, de la modélisation UML à l'optimisation, sur 3 SGBD (MariaDB, PostgreSQL objet-relationnel, MongoDB). Transactions, rôles, triggers, index, prévention de l'injection SQL et indicateurs métier.
 
 ### Développement web
 - **[Vite & Gourmand](https://github.com/AHCENEM/vite-et-gourmand)** : application de traiteur événementiel en PHP, MySQL et MongoDB (architecture MVC), [déployée en ligne](https://vite-et-gourmand-production-0424.up.railway.app). Projet d'examen du Titre Professionnel.
